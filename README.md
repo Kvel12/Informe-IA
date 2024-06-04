@@ -2,10 +2,10 @@
 
 ## Grupo de trabajo
 
-1. Kevin Alejandro Velez Agudelo
-2. Ervin CaravalI Ibarra
+1. Ervin CaravalI Ibarra
+2. Hernan David Cisneros Vargas
 3. Miguel Angel Moreno Romero
-4. Hernan David Cisneros Vargas
+4. Kevin Alejandro Velez Agudelo
 
 ## Resumen del Proyecto
 
